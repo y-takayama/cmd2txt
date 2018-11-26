@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\cmd2txt\bin\x86\Debug\cmd2txt.exe.config
+C:\Users\user\Desktop\cmd2txt\bin\x86\Debug\cmd2txt.exe
+C:\Users\user\Desktop\cmd2txt\bin\x86\Debug\cmd2txt.pdb
+C:\Users\user\Desktop\cmd2txt\obj\x86\Debug\cmd2txt.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\cmd2txt\obj\x86\Debug\cmd2txt.exe
+C:\Users\user\Desktop\cmd2txt\obj\x86\Debug\cmd2txt.pdb
